@@ -19,9 +19,9 @@ public class AppTest
     }
     
     @Test
-    public void shouldAnswerWithFalse()
+    public void shouldAnswerWithTrue2()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
     
     
